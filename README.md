@@ -16,6 +16,7 @@ Release Date | File | Description
 19980105| [q2-310-axp.zip](bin/q2-310-axp.zip) | Point Release v3.10 (DEC Alpha)
 19980105| [q2-311-axp.zip](bin/q2-311-axp.zip) | Point Release v3.11 (DEC Alpha)
 19980106 | [quake2-3.10-i386-unknown-linux2.0.tar.gz](bin/quake2-3.10-i386-unknown-linux2.0.tar.gz) | Point Release v3.10 (Linux)
+19980225 | [q2_313.exe](bin/q2_313.exe)<br>[q2_312to313.exe](bin/q2_312to313.exe)<br>[quake2-3.13-i386-unknown-linux2.0.tar.gz](bin/quake2-3.13-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.13-full-i386-unknown-linux2.0.tar.gz](bin/quake2-3.13-full-i386-unknown-linux2.0.tar.gz) | Point Release v3.13
 19980302| [q2-314-axp.zip](bin/q2-314-axp.zip) | Point Release v3.14 (DEC Alpha)
 19980314 | [q2-314-demo-x86.exe](bin/q2-314-demo-x86.exe) | Quake2 Demo v3.14
 19980702| [q2-317-axp.zip](bin/q2-317-axp.zip)<br>[q2-317-axp-full.zip](bin/q2-317-axp-full.zip) | Point Release v3.17 (DEC Alpha)
