@@ -11,11 +11,18 @@ Release Date | File | Description
 19971019 | [q2_test.exe](bin/q2_test.exe) | Quake2 Test (Win32)
 19971020 | [q2_test_axp.zip](bin/q2_test_axp.zip) | Quake2 Test (DEC Alpha)
 19971118 | [q2test-i386-unknown-linux2.0.tar.gz](bin/q2test-i386-unknown-linux2.0.tar.gz) | Quake2 Test (Linux)
+19971209 | [q2_306.zip](bin/q2_306.zip) | Point Release v3.06 (Win32)
 19971209 | n/a | Quake2 Retail Release v3.05
+19971211 | [q2source_12_11.zip](bin/q2source_12_11.zip) | Quake2 Game Source (v?)
+19971227 | [patch_07.zip](bin/patch_07.zip) | Point Release v3.07 (Win32)
+19971228 | [patch_08.zip](bin/patch_08.zip) | Point Release v3.08 (Win32)
+19971229 | [q2-309.exe](bin/q2-309.exe)<br>[q2-309-2.exe](bin/q2-309-2.exe) | Point Release v3.09 (Win32)
 19980104 | [q2-310.exe](bin/q2-310.exe) | Point Release v3.10 (Win32)
 19980105| [q2-310-axp.zip](bin/q2-310-axp.zip) | Point Release v3.10 (DEC Alpha)
 19980105| [q2-311-axp.zip](bin/q2-311-axp.zip) | Point Release v3.11 (DEC Alpha)
 19980106 | [quake2-3.10-i386-unknown-linux2.0.tar.gz](bin/quake2-3.10-i386-unknown-linux2.0.tar.gz) | Point Release v3.10 (Linux)
+19980219 | [q2_312.exe](bin/q2_312.exe) | Point Release v3.12
+19980219 | q2_312a.exe | Point Release v3.12a
 19980225 | [q2_313.exe](bin/q2_313.exe)<br>[q2_312to313.exe](bin/q2_312to313.exe)<br>[quake2-3.13-i386-unknown-linux2.0.tar.gz](bin/quake2-3.13-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.13-full-i386-unknown-linux2.0.tar.gz](bin/quake2-3.13-full-i386-unknown-linux2.0.tar.gz) | Point Release v3.13
 19980302| [q2-314-axp.zip](bin/q2-314-axp.zip) | Point Release v3.14 (DEC Alpha)
 19980314 | [q2-314-demo-x86.exe](bin/q2-314-demo-x86.exe) | Quake2 Demo v3.14
@@ -26,6 +33,7 @@ Release Date | File | Description
 19981201 | [q2src320.exe](bin/q2src320.exe)<br>[q2src320.shar.Z](bin/q2src320.shar.Z)<br>[xatrixsrc320.exe](bin/xatrixsrc320.exe)<br>[xatrixsrc320.shar.Z](bin/xatrixsrc320.shar.Z)<br>[roguesrc320.exe](bin/roguesrc320.exe)<br>[roguesrc320.shar.Z](bin/roguesrc320.shar.Z) | Quake2 Game Code v3.20
 19990910 | [quake2-3.19a-i386-unknown-linux2.0.tar.gz](bin/quake2-3.19a-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.19a-glibc-i386-unknown-linux2.0.tar.gz](bin/quake2-3.19a-glibc-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.19a-glibc-2.i386.rpm](bin/quake2-3.19a-glibc-2.i386.rpm)<br>[quake2-3.19a-2.i386.rpm](bin/quake2-3.19a-2.i386.rpm)<br>[q2ded-3.19a-glibc-alpha-unknown-linux2.0.tar.gz](bin/q2ded-3.19a-glibc-alpha-unknown-linux2.0.tar.gz)<br>[q2ded-3.19a-glibc-2.alpha.rpm](bin/q2ded-3.19a-glibc-2.alpha.rpm) | Point Release v3.19a
 20011222 | [q2source-3.21.zip](bin/q2source-3.21.zip)<br>[quake2.zip](bin/quake2.zip) | Quake2 Engine Source v3.21 (GPL)
+? | q2_312.exe | Point Release v3.12 (Win32)
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not determine the date of release yet.
