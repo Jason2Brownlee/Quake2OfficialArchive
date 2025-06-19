@@ -8,6 +8,7 @@ Chronological list of Quake II official releases in [bin/](bin/) including date,
 
 Release Date | File | Description
 --- | --- | ---
+19971118 | [q2test-i386-unknown-linux2.0.tar.gz](bin/q2test-i386-unknown-linux2.0.tar.gz) | Quake2 Test
 19980310 | [q2-314-demo-x86.exe](bin/q2-314-demo-x86.exe) | Quake2 Demo v3.14
 19980909 | [q2-319-axp-beta.zip](bin/q2-319-axp-beta.zip) | Point Release v3.19 Alpha
 19980910 | [q2-319-x86.exe](bin/q2-319-x86.exe)<br>[q2-319-x86-full.exe](bin/q2-319-x86-full.exe)<br>[q2-319-x86-full-ctf.exe](bin/q2-319-x86-full-ctf.exe)<br>[q2-319-vwep.exe](bin/q2-319-vwep.exe)<br>[quake2-3.19-i386-unknown-linux2.0.tar.gz](bin/quake2-3.19-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.19-glibc-i386-unknown-linux2.0.tar.gz](bin/quake2-3.19-glibc-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.19-glibc-1.i386.rpm](bin/quake2-3.19-glibc-1.i386.rpm)<br>[quake2-3.19-1.i386.rpm](bin/quake2-3.19-1.i386.rpm)<br>[q2ded-3.19-sparc-sun-solaris2.5.1.tar.Z](bin/q2ded-3.19-sparc-sun-solaris2.5.1.tar.Z)<br>[q2ded-3.19-i386-sun-solaris2.5.1.tar.Z](bin/q2ded-3.19-i386-sun-solaris2.5.1.tar.Z)<br>[q2ded-3.19-glibc-alpha-unknown-linux2.0.tar.gz](bin/q2ded-3.19-glibc-alpha-unknown-linux2.0.tar.gz)<br>[q2ded-3.19-glibc-1.alpha.rpm](bin/q2ded-3.19-glibc-1.alpha.rpm) | Point Release v3.19
