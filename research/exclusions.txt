@@ -1,0 +1,6 @@
+# Exclusions (false positive links)
+# ==================================
+
+# Mostly just bad links found by the automated scripts
+
+

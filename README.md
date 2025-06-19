@@ -1,0 +1,41 @@
+# Quake II Official Archive
+
+The goal of this project is to archive **all versions** of **all official Quake 2 releases**.
+
+## Release List
+
+Chronological list of Quake II official releases in [bin/](bin/) including date, filename link, and description.
+
+Release Date | File | Description
+--- | --- | ---
+19980310 | [q2-314-demo-x86.exe](bin/q2-314-demo-x86.exe) | Quake2 Demo v3.14
+19981201 | [q2-3.20-x86.exe](bin/q2-3.20-x86.exe)<br>[q2-3.20-x86-full.exe](bin/q2-3.20-x86-full.exe)<br>[q2-3.20-x86-full-ctf.exe](bin/q2-3.20-x86-full-ctf.exe)<br>[quake2-3.20-i386-unknown-linux2.0.tar.gz](bin/quake2-3.20-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.20-glibc-i386-unknown-linux2.0.tar.gz](bin/quake2-3.20-glibc-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.20-glibc-6.i386.rpm](bin/quake2-3.20-glibc-6.i386.rpm)<br>[quake2-3.20-6.i386.rpm](bin/quake2-3.20-6.i386.rpm)<br>[q2ded-3.20-sparc-sun-solaris2.5.1.tar.Z](bin/q2ded-3.20-sparc-sun-solaris2.5.1.tar.Z) | Point Release v3.20
+19991201 | [q2ded-3.20-glibc-alpha-unknown-linux2.0.tar.gz](bin/q2ded-3.20-glibc-alpha-unknown-linux2.0.tar.gz)<br>[q2ded-3.20-glibc-6.alpha.rpm](bin/q2ded-3.20-glibc-6.alpha.rpm) | Quake2 Dedicated Server v3.20
+19981201 | [q2src320.exe](bin/q2src320.exe)<br>[q2src320.shar.Z](bin/q2src320.shar.Z)<br>[xatrixsrc320.exe](bin/xatrixsrc320.exe)<br>[xatrixsrc320.shar.Z](bin/xatrixsrc320.shar.Z)<br>[roguesrc320.exe](bin/roguesrc320.exe)<br>[roguesrc320.shar.Z](bin/roguesrc320.shar.Z) | Quake2 Game Code v3.20
+20011222 | [q2source-3.21.zip](bin/q2source-3.21.zip)<br>[quake2.zip](bin/quake2.zip) | Quake2 Engine Source v3.21 (GPL)
+
+* **No Link**: indicates that we could not locate a copy of the file yet.
+* **No Date**: indicates that we could not determine the date of release yet.
+
+## How You Can Help
+
+Maybe you can help to make this archive more complete.
+
+* Do you know of an official release not listed above?
+* Do you know a better description for one of the above official releases?
+* Do you have a missing file for one of the above official releases?
+
+If you can help, please contact me directly: jason.brownlee05@gmail.com
+
+Even if you have release files already in the archive, send them through. Many files were released with the same filename again and again.
+
+### Missing File Wishlists
+
+Below are lists of known files missing from the archive.
+
+* [Quake Release Filename Wishlist](research/wishlist.txt): list of known files missing from the archive.
+* [Quake Release URL Wishlist](research/wishlist_urls.txt): list of broken URLs for files missing from the archive.
+
+
+
+
