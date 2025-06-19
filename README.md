@@ -8,9 +8,14 @@ Chronological list of Quake II official releases in [bin/](bin/) including date,
 
 Release Date | File | Description
 --- | --- | ---
-19971019 | [q2_test.exe](bin/q2_test.exe) | Quake2 Win32 Test
-19971118 | [q2test-i386-unknown-linux2.0.tar.gz](bin/q2test-i386-unknown-linux2.0.tar.gz) | Quake2 Linux Test
+19971019 | [q2_test.exe](bin/q2_test.exe) | Quake2 Test (Win32)
+19971020 | [q2_test_axp.zip](bin/q2_test_axp.zip) | Quake2 Test (DEC Alpha)
+19971118 | [q2test-i386-unknown-linux2.0.tar.gz](bin/q2test-i386-unknown-linux2.0.tar.gz) | Quake2 Test (Linux)
 19971209 | n/a | Quake2 Retail Release v3.05
+19980105| [q2-310-axp.zip](bin/q2-310-axp.zip) | Point Release v3.10 (DEC Alpha)
+19980105| [q2-311-axp.zip](bin/q2-311-axp.zip) | Point Release v3.11 (DEC Alpha)
+19980302| [q2-314-axp.zip](bin/q2-314-axp.zip) | Point Release v3.14 (DEC Alpha)
+19980702| [q2-317-axp.zip](bin/q2-317-axp.zip)<br>[q2-317-axp-full.zip](bin/q2-317-axp-full.zip) | Point Release v3.17 (DEC Alpha)
 19980314 | [q2-314-demo-x86.exe](bin/q2-314-demo-x86.exe) | Quake2 Demo v3.14
 19980909 | [q2-319-axp-beta.zip](bin/q2-319-axp-beta.zip) | Point Release v3.19 Alpha
 19980910 | [q2-319-x86.exe](bin/q2-319-x86.exe)<br>[q2-319-x86-full.exe](bin/q2-319-x86-full.exe)<br>[q2-319-x86-full-ctf.exe](bin/q2-319-x86-full-ctf.exe)<br>[q2-319-vwep.exe](bin/q2-319-vwep.exe)<br>[quake2-3.19-i386-unknown-linux2.0.tar.gz](bin/quake2-3.19-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.19-glibc-i386-unknown-linux2.0.tar.gz](bin/quake2-3.19-glibc-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.19-glibc-1.i386.rpm](bin/quake2-3.19-glibc-1.i386.rpm)<br>[quake2-3.19-1.i386.rpm](bin/quake2-3.19-1.i386.rpm)<br>[q2ded-3.19-sparc-sun-solaris2.5.1.tar.Z](bin/q2ded-3.19-sparc-sun-solaris2.5.1.tar.Z)<br>[q2ded-3.19-i386-sun-solaris2.5.1.tar.Z](bin/q2ded-3.19-i386-sun-solaris2.5.1.tar.Z)<br>[q2ded-3.19-glibc-alpha-unknown-linux2.0.tar.gz](bin/q2ded-3.19-glibc-alpha-unknown-linux2.0.tar.gz)<br>[q2ded-3.19-glibc-1.alpha.rpm](bin/q2ded-3.19-glibc-1.alpha.rpm) | Point Release v3.19
