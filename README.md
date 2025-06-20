@@ -38,6 +38,7 @@ Release Date | File | Description
 19980314 | [q2-314-demo-x86.exe](bin/q2-314-demo-x86.exe) | Quake2 Demo v3.14
 19980527 | n/a | Quake II Mission Pack: The Reckoning (Xatrix)
 19980528 | [q2-315-x86.exe](bin/q2-315-x86.exe)<br>[q2-315-x86-full.exe](bin/q2-315-x86-full.exe)<br>[q2-315-x86-full-ctf.exe](bin/q2-315-x86-full-ctf.exe)<br>[quake2-3.15-i386-unknown-linux2.0.tar.gz](bin/quake2-3.15-i386-unknown-linux2.0.tar.gz) | Point Release v3.15
+19980530 | [quake2-3.15a-i386-unknown-linux2.0.tar.gz](bin/quake2-3.15a-i386-unknown-linux2.0.tar.gz) | Point Release v3.15a (Linux)
 19980702 | [q2-317-x86.exe](bin/q2-317-x86.exe)<br>[q2-317-x86-full.exe](bin/q2-317-x86-full.exe)<br>[q2-317-x86-full-ctf.exe](bin/q2-317-x86-full-ctf.exe)<br>[q2-317-axp.zip](bin/q2-317-axp.zip)<br>[q2-317-axp-full.zip](bin/q2-317-axp-full.zip)<br>[quake2-317-i386-unknown-linux2.0.tar.gz](bin/quake2-317-i386-unknown-linux2.0.tar.gz)<br>[q2ded-317-sparc-sun-solaris2.0.tar.gz](bin/q2ded-317-sparc-sun-solaris2.0.tar.gz)<br>[q2ded-317-i386-sun-solaris2.5.1.tar.gz](bin/q2ded-317-i386-sun-solaris2.5.1.tar.gz)<br>[q2ded-317-axp-unknown-linux2.0.tar.gz](bin/q2ded-317-axp-unknown-linux2.0.tar.gz) | Point Release v3.17
 19980708 | [match1.exe](bin/match1.exe)<br>[match1.tar.gz](bin/match1.tar.gz) | Match1 Map Pak
 19980708 | [q2ctf4a.exe](bin/q2ctf4a.exe)<br>[q2ctf4a.tar.gz](bin/q2ctf4a.tar.gz) | Q2CTF4a Map (Disruptor)
