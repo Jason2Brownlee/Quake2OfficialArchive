@@ -50,9 +50,9 @@ Release Date | File | Description
 19990108 | [q2ctf150.exe](bin/q2ctf150.exe)<br>[q2ctf150.zip](bin/q2ctf150.zip)<br>[q2ctf150upgrade.zip](bin/q2ctf150upgrade.zip)<br>[q2ctf150upgrade.exe](bin/q2ctf150upgrade.exe)<br>[q2ctf150-sparc-sun-solaris2.5.1.tar.gz](bin/q2ctf150-sparc-sun-solaris2.5.1.tar.gz)<br>[q2ctf150-i386-unknown-linux.tar.gz](bin/q2ctf150-i386-unknown-linux.tar.gz)<br>[q2ctf150-glibc-i386-unknown-linux.tar.gz](bin/q2ctf150-glibc-i386-unknown-linux.tar.gz)<br>[q2ctf150-glibc-axp-unknown-linux.tar.gz](bin/q2ctf150-glibc-axp-unknown-linux.tar.gz) | Q2CTF v1.05
 20010105 | [q2commexpl.zip](bin/q2commexpl.zip) | Licence Agreement
 20011222 | [q2source-3.21.zip](bin/q2source-3.21.zip)<br>[quake2.zip](bin/quake2.zip) | Quake2 Engine Source v3.21 (GPL)
+20230808 | [quake2-rerelease-dll-initial.zip](bin/quake2-rerelease-dll-initial.zip) | Quake2 Game Source v? (Initial)
 20230810 | n/a | Quake II Mission Pack: Call of the Machine (MachineGames)
 20230810 | n/a | Quake II Re-Release (v?)
-20230808 | [quake2-rerelease-dll-initial.zip](bin/quake2-rerelease-dll-initial.zip) Quake2 Game Source v? (Initial)
 20231004 | [quake2-rerelease-dll-update1.zip](bin/quake2-rerelease-dll-update1.zip) | Quake2 Game Source v? (Update1)
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
