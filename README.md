@@ -12,7 +12,7 @@ Release Date | File | Description
 19971020 | [q2_test_axp.zip](bin/q2_test_axp.zip) | Quake2 Test (DEC Alpha)
 19971118 | [q2test-i386-unknown-linux2.0.tar.gz](bin/q2test-i386-unknown-linux2.0.tar.gz) | Quake2 Test (Linux)
 19971209 | [q2_306.zip](bin/q2_306.zip) | Point Release v3.06 (Win32)
-19971209 | n/a | Quake2 Retail Release v3.05
+19971209 | n/a | Quake II (Retail Release) v3.05
 19971211 | [q2source_12_11.zip](bin/q2source_12_11.zip) | Quake2 Game Source (v?)
 19971216 | [pmodels_12_12.zip](bin/pmodels_12_12.zip) | TexPaint and Playermodels
 19971218 | [q2miniinst.exe](bin/q2miniinst.exe) | 3Dfx OpenGL Minidriver
@@ -33,6 +33,7 @@ Release Date | File | Description
 19980304 | [q2-3.14-source.exe](bin/q2-3.14-source.exe)<br>[q2source-3.14.shar.Z](bin/q2source-3.14.shar.Z)<br>[q2ctf-1.02-source.shar.Z](bin/q2ctf-1.02-source.shar.Z)<br>[q2-ctf-source.exe](bin/q2-ctf-source.exe) | Quake2 Game Source v3.14<br>Q2CTF v1.02 Game Source
 19980309 | [q2ded-3.14-sparc-sun-solaris2.5.tar.Z](bin/q2ded-3.14-sparc-sun-solaris2.5.tar.Z) | Dedicated Server v3.14 (Sparc)
 19980314 | [q2-314-demo-x86.exe](bin/q2-314-demo-x86.exe) | Quake2 Demo v3.14
+19980527 | n/a | Quake II Mission Pack: The Reckoning (Xatrix)
 19980528 | [q2-315-x86.exe](bin/q2-315-x86.exe)<br>[q2-315-x86-full.exe](bin/q2-315-x86-full.exe)<br>[q2-315-x86-full-ctf.exe](bin/q2-315-x86-full-ctf.exe)<br>[quake2-3.15-i386-unknown-linux2.0.tar.gz](bin/quake2-3.15-i386-unknown-linux2.0.tar.gz) | Point Release v3.15
 19980702 | [q2-317-x86.exe](bin/q2-317-x86.exe)<br>[q2-317-x86-full.exe](bin/q2-317-x86-full.exe)<br>[q2-317-x86-full-ctf.exe](bin/q2-317-x86-full-ctf.exe)<br>[q2-317-axp.zip](bin/q2-317-axp.zip)<br>[q2-317-axp-full.zip](bin/q2-317-axp-full.zip)<br>[quake2-317-i386-unknown-linux2.0.tar.gz](bin/quake2-317-i386-unknown-linux2.0.tar.gz)<br>[q2ded-317-sparc-sun-solaris2.0.tar.gz](bin/q2ded-317-sparc-sun-solaris2.0.tar.gz)<br>[q2ded-317-i386-sun-solaris2.5.1.tar.gz](bin/q2ded-317-i386-sun-solaris2.5.1.tar.gz)<br>[q2ded-317-axp-unknown-linux2.0.tar.gz](bin/q2ded-317-axp-unknown-linux2.0.tar.gz) | Point Release v3.17
 19980708 | [match1.exe](bin/match1.exe)<br>[match1.tar.gz](bin/match1.tar.gz) | Match1 Map Pak
@@ -42,12 +43,17 @@ Release Date | File | Description
 19980909 | [q2-319-axp-beta.zip](bin/q2-319-axp-beta.zip) | Point Release v3.19 Alpha
 19980910 | [q2-319-x86.exe](bin/q2-319-x86.exe)<br>[q2-319-x86-full.exe](bin/q2-319-x86-full.exe)<br>[q2-319-x86-full-ctf.exe](bin/q2-319-x86-full-ctf.exe)<br>[q2-319-vwep.exe](bin/q2-319-vwep.exe)<br>[quake2-3.19-i386-unknown-linux2.0.tar.gz](bin/quake2-3.19-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.19-glibc-i386-unknown-linux2.0.tar.gz](bin/quake2-3.19-glibc-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.19-glibc-1.i386.rpm](bin/quake2-3.19-glibc-1.i386.rpm)<br>[quake2-3.19-1.i386.rpm](bin/quake2-3.19-1.i386.rpm)<br>[q2ded-3.19-sparc-sun-solaris2.5.1.tar.Z](bin/q2ded-3.19-sparc-sun-solaris2.5.1.tar.Z)<br>[q2ded-3.19-i386-sun-solaris2.5.1.tar.Z](bin/q2ded-3.19-i386-sun-solaris2.5.1.tar.Z)<br>[q2ded-3.19-glibc-alpha-unknown-linux2.0.tar.gz](bin/q2ded-3.19-glibc-alpha-unknown-linux2.0.tar.gz)<br>[q2ded-3.19-glibc-1.alpha.rpm](bin/q2ded-3.19-glibc-1.alpha.rpm) | Point Release v3.19
 19980910 | [quake2-3.19a-i386-unknown-linux2.0.tar.gz](bin/quake2-3.19a-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.19a-glibc-i386-unknown-linux2.0.tar.gz](bin/quake2-3.19a-glibc-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.19a-glibc-2.i386.rpm](bin/quake2-3.19a-glibc-2.i386.rpm)<br>[quake2-3.19a-2.i386.rpm](bin/quake2-3.19a-2.i386.rpm)<br>[q2ded-3.19a-glibc-alpha-unknown-linux2.0.tar.gz](bin/q2ded-3.19a-glibc-alpha-unknown-linux2.0.tar.gz)<br>[q2ded-3.19a-glibc-2.alpha.rpm](bin/q2ded-3.19a-glibc-2.alpha.rpm) | Point Release v3.19a
+19980911 | n/a | Quake II Mission Pack: Ground Zero (Rogue)
 19981019 | [q2-3.20beta-x86.exe](bin/q2-3.20beta-x86.exe)<br>[quake2-3.20beta-i386-unknown-linux2.0.tar.gz](bin/quake2-3.20beta-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.20beta-glibc-i386-unknown-linux2.0.tar.gz](bin/quake2-3.20beta-glibc-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.20beta-glibc-5.i386.rpm](bin/quake2-3.20beta-glibc-5.i386.rpm)<br>[quake2-3.20beta-5.i386.rpm](bin/quake2-3.20beta-5.i386.rpm)<br>[q2ded-3.20beta-glibc-alpha-unknown-linux2.0.tar.gz](bin/q2ded-3.20beta-glibc-alpha-unknown-linux2.0.tar.gz)<br>[q2ded-3.20beta-glibc-5.alpha.rpm](bin/q2ded-3.20beta-glibc-5.alpha.rpm)<br>[q2-3.20beta-x86.exe](bin/q2-3.20beta-x86.exe) | Point Release v3.20 Beta
 19981201 | [q2-3.20-x86.exe](bin/q2-3.20-x86.exe)<br>[q2-3.20-x86-full.exe](bin/q2-3.20-x86-full.exe)<br>[q2-3.20-x86-full-ctf.exe](bin/q2-3.20-x86-full-ctf.exe)<br>[quake2-3.20-i386-unknown-linux2.0.tar.gz](bin/quake2-3.20-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.20-glibc-i386-unknown-linux2.0.tar.gz](bin/quake2-3.20-glibc-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.20-glibc-6.i386.rpm](bin/quake2-3.20-glibc-6.i386.rpm)<br>[quake2-3.20-6.i386.rpm](bin/quake2-3.20-6.i386.rpm)<br>[q2ded-3.20-sparc-sun-solaris2.5.1.tar.Z](bin/q2ded-3.20-sparc-sun-solaris2.5.1.tar.Z)<br>[q2ded-3.20-glibc-alpha-unknown-linux2.0.tar.gz](bin/q2ded-3.20-glibc-alpha-unknown-linux2.0.tar.gz)<br>[q2ded-3.20-glibc-6.alpha.rpm](bin/q2ded-3.20-glibc-6.alpha.rpm) | Point Release v3.20
 19981201 | [q2src320.exe](bin/q2src320.exe)<br>[q2src320.shar.Z](bin/q2src320.shar.Z)<br>[xatrixsrc320.exe](bin/xatrixsrc320.exe)<br>[xatrixsrc320.shar.Z](bin/xatrixsrc320.shar.Z)<br>[roguesrc320.exe](bin/roguesrc320.exe)<br>[roguesrc320.shar.Z](bin/roguesrc320.shar.Z) | Quake2 Game Code v3.20
 19990108 | [q2ctf150.exe](bin/q2ctf150.exe)<br>[q2ctf150.zip](bin/q2ctf150.zip)<br>[q2ctf150upgrade.zip](bin/q2ctf150upgrade.zip)<br>[q2ctf150upgrade.exe](bin/q2ctf150upgrade.exe)<br>[q2ctf150-sparc-sun-solaris2.5.1.tar.gz](bin/q2ctf150-sparc-sun-solaris2.5.1.tar.gz)<br>[q2ctf150-i386-unknown-linux.tar.gz](bin/q2ctf150-i386-unknown-linux.tar.gz)<br>[q2ctf150-glibc-i386-unknown-linux.tar.gz](bin/q2ctf150-glibc-i386-unknown-linux.tar.gz)<br>[q2ctf150-glibc-axp-unknown-linux.tar.gz](bin/q2ctf150-glibc-axp-unknown-linux.tar.gz) | Q2CTF v1.05
 20010105 | [q2commexpl.zip](bin/q2commexpl.zip) | Licence Agreement
 20011222 | [q2source-3.21.zip](bin/q2source-3.21.zip)<br>[quake2.zip](bin/quake2.zip) | Quake2 Engine Source v3.21 (GPL)
+20230810 | n/a | Quake II Mission Pack: Call of the Machine (MachineGames)
+20230810 | n/a | Quake II Re-Release (v?)
+20230808 | [quake2-rerelease-dll-initial.zip](bin/quake2-rerelease-dll-initial.zip) Quake2 Game Source v? (Initial)
+20231004 | [quake2-rerelease-dll-update1.zip](bin/quake2-rerelease-dll-update1.zip) | Quake2 Game Source v? (Update1)
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not determine the date of release yet.
