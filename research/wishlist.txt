@@ -1,10 +1,6 @@
 # File Wishlist
 # ---------------------------
 
-
 # patches
 q2_312a.exe
-
-# source
-
 
