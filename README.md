@@ -26,8 +26,7 @@ Release Date | File | Description
 19980225 | [q2ctf101.zip](bin/q2ctf101.zip) | Q2CTF v1.01
 19980302 | [q2-314-x86.exe](bin/q2-314-x86.exe)<br>[q2-314-x86-full.exe](bin/q2-314-x86-full.exe)<br>[q2-314-x86-full-ctf.exe](bin/q2-314-x86-full-ctf.exe)<br>[q2-314-axp.zip](bin/q2-314-axp.zip)<br>[quake2-3.14-i386-unknown-linux2.0.tar.gz](bin/quake2-3.14-i386-unknown-linux2.0.tar.gz)<br>[q2ctf102.zip](bin/q2ctf102.zip)<br>[q2ctf102.exe](bin/q2ctf102.exe)<br>[q2ctf102upgrade.zip](bin/q2ctf102upgrade.zip) | Point Release v3.14 Q2CTF 1.02
 19980303 | [quake2-3.14a-i386-unknown-linux2.0.tar.gz](bin/quake2-3.14a-i386-unknown-linux2.0.tar.gz) | Point Release v3.14a (Linux)
-19980304 | [q2-3.14-source.exe](bin/q2-3.14-source.exe)<br>[q2source-3.14.shar.Z](bin/q2source-3.14.shar.Z) | Quake2 Game Source v3.14
-19980304 | [q2ctf-1.02-source.shar.Z](bin/q2ctf-1.02-source.shar.Z)<br>[q2-ctf-source.exe](bin/q2-ctf-source.exe) | Q2CTF Soruce v1.02
+19980304 | [q2-3.14-source.exe](bin/q2-3.14-source.exe)<br>[q2source-3.14.shar.Z](bin/q2source-3.14.shar.Z)<br>[q2ctf-1.02-source.shar.Z](bin/q2ctf-1.02-source.shar.Z)<br>[q2-ctf-source.exe](bin/q2-ctf-source.exe) | Quake2 and Q2CTF Game Source v3.14
 19980309 | [q2ded-3.14-sparc-sun-solaris2.5.tar.Z](bin/q2ded-3.14-sparc-sun-solaris2.5.tar.Z) | Dedicated Server v3.14 (Sparc)
 19980314 | [q2-314-demo-x86.exe](bin/q2-314-demo-x86.exe) | Quake2 Demo v3.14
 19980528 | [q2-315-x86.exe](bin/q2-315-x86.exe)<br>[q2-315-x86-full.exe](bin/q2-315-x86-full.exe)<br>[q2-315-x86-full-ctf.exe](bin/q2-315-x86-full-ctf.exe)<br>[quake2-3.15-i386-unknown-linux2.0.tar.gz](bin/quake2-3.15-i386-unknown-linux2.0.tar.gz) | Point Release v3.15
