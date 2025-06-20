@@ -1,0 +1,222 @@
+ (Feb.25.1998) Quake II v3.12 to v3.13 Update Patch
+ --------------------------------------------------
+
+ NOTE: This patch IS NOT COMPATIBLE with your current saved games! DO NOT
+       install this patch if you MUST be able to resume previously saved
+       games!
+
+ This patch will upgrade you from v3.12 to v3.13. Please note, you should
+ have downloaded the point release (q2_312.exe), prior to using this patch.
+
+ Please run q2_312to313.exe and extract the contents to the root of your
+ Quake II directory.
+
+ Changes since v3.10
+ -------------------
+
+ NOTE: This information was not made previously available, and is included
+       here to document modifications since v3.10
+
+Fixed qhost support code.  We were using the wrong threading API.
+
+No longer report WSAEADDRNOTAVAIL on IP broadcasts since some PPP drivers
+will fail them with this error.
+
+Added cvars gl_3dfx_no_gamma, gl_particle_min_size, gl_particle_max_size,
+gl_particle_size, gl_particle_att_a, gl_particle_att_b, gl_particle_att_c
+
+Fixed a bug in Sys_Milliseconds that would cause what appeared to be a system
+freeze.  It was really just frozen for 65 seconds.
+
+Fixed a bug in Sys_ScanForCD due to NT and Win95 interpreting the parameters
+to GetDriveType differently.
+
+Added Win95 specific screen saver detecion code
+
+Changed the interface on the video menu a bit
+
+Fixed a crash in ref_soft that happened when firing weapons under certain
+circumstances.  For example, if you had r_drawentities set to 0.
+
+Fixed a bug that caused clients to not be able connect sometimes when the
+server was changing levels.
+
+Reimplemented macro expansion where appropriate
+
+Fixed console redirection for rcon
+
+Moved chat functionality in to the game dll
+
+Added coop play including savegame support.  This brought about a major
+rework of the savegame code.
+
+Added code to make sure coop and deathmatch always have consistant values
+
+Moved player model sounds in to the same directory as everything else so the
+models, sounds, and icons are all in one place now.  The male sounds are used as a fallback if a model has no sounds of its own.
+
+Added glquake type shadows.  There are definitely issues with them, but some
+people really like it.
+
+Removed duplicate copies of the vertex normals table.
+
+Latched cvars are now changed immediatly if a server is not active.
+
+The cvar game is now latched instead of write protected.  We're treating it
+much like quakewold did to automatically set it when you connect to a CTF server.  When it does change video and sound systems are restarted to flush the caches.  It's fairly fast since you aren't in a game at the time.
+
+Fixed so it will check for pak0 through pak9 instead of starting at pak0 and
+stopping when it gets a miss.  This was keeping people who had done a minimum
+install from seeing the pak1 for the DM levels.
+
+Fixed an out of band message overflow crash.
+
+Commented out printing of "using previous origin"
+
+Game API changes required bumping version to 3.
+
+Network protocol changes required bumping version to 31.
+
+Added client side support for various mission pack #1 and CTF effects
+
+Added ability for game dll to temporarily disable client prediction; used for
+grappling hook
+
+Reworked sound code for model specific sound support.
+
+Made key binding check on inventory screen case insensitive
+
+Changed setenv command to let you see an environment variables value without
+changing it
+
+Added code to clear all pallete effects when disconnected
+
+Added fixedtime to the cheatvars list
+
+Rewrote client side code for model and skin parsing so CTF can enforce team
+skins.  No more cross dressers!
+
+Added CTF scoreboard
+
+Added an offset to client beams to make grapple work better
+
+Added a slew of gross hacks to fix problems in various maps, mostly dealing
+with coop issues
+
+Added fixed FOV support for those that consider it cheating (off by default)
+
+Added quad dropping (like in QuakeWorld) to turn them into targets
+
+Fixed monsters in coop ignoring the last player
+
+Fixed mask for monsters checking for a clear shot to have windows block
+
+Made sure everything in hard is in hard+ skill
+
+Fixed insane guys getting mad at the player
+
+Fixed team determination code
+
+Added invnextw, invprevw, invnextp, and invprevp to allow cycling through
+only weapins or powerups
+
+Fixed "give ammo #" to be absolute instead of addative
+
+Fixed "give <item>" to work as if it has just been picked it up instead of
+just stuffing it in the inventory
+
+Enabled dropping for single player and coop
+
+Added weaplast command to switch back to your previous weapon
+
+Fixed it so you can only suicide once every 5 seconds
+
+Added a "players" command that lists all the players in the game in the
+console
+
+Added a "score" command to bring up the scoreboard.  This was needed since in
+coop you have both help and a score.  DM still shows the scores if you do
+help.
+
+Limited max negative health to prevent wrapping and other printout oddities
+
+Changed monster pain reaction code for coop so they don't cycle among
+multiple players shooting at them
+
+Fixed a bug that let monsters run around with a ducked bounding box
+
+Fixed teamplay scoring
+
+Fixed a crash with teamed rotating doors
+
+Fixed inadvertant weapon switch when picking up ammo
+
+Resassigned sound channels for power armor sounds so they don't get lost
+
+Preserved power armor state across levels
+
+Fixed picking up power armor when you had active power armor was deactivating
+it
+
+Reworked a bunch of code related to keys for coop
+
+Replaced some hard numbers with defines so mod authors know what they are for
+
+Fixed bad frame message; it was trying to animate dead bodies
+
+Fixed monster combat points checking self instead of other when trying to not
+allow swimming and flying monsters from being held
+
+Removed test code and variables that were unused and just taking up space
+
+Stopped dead monsters from screaming in pain
+
+Fixed a bug in testentity position that was not using the entities clip mask.  This was allowing monsters to pass through objects sometimes.
+
+Added password so you can have a private server again
+
+Added a server command interface; see the game dll source for details
+
+Fixed help computer for coop
+
+Fixed target_changelevel allowing being activated when the player is dead in
+single player
+
+Fixed target_changelevel was checking other instead of activator in DM
+
+Fixed switched lasers that had been off were not causing damage
+
+Fixed crash in the body que code
+
+Fixed some sounds that were sent to PVS instead of PHS
+
+Fixed monsters were becoming non-solid at the wrong time
+
+Fixed monsters don't go into pain in skill 3.
+
+Fixed soldiers were playing wrong pain sounds
+
+Added death messages (obituaries).  This was done the right way; it always
+knows what killed you (directly killed you).  There are even some fun
+sub-cases tracked like a direct rocket hit vs a near miss.  I'm tracking 32
+distinct causes of death right now as well as if it was due to friendly fire.
+The messages are gender correct too.  I didn't do anything to modify them for
+powerups.
+
+Made dead players gibbable
+
+Added a hook in the game dll for IP banning.
+
+cleaned up comments to help mod authors know what's going on a little better
+
+Fixed help computer to show when skill is 3
+
+Stopped armor number from flashing when in god mode or invulnerable
+
+Stopped player playing pain sounds when in god mode or invulnerable
+
+Fixed falling damage so you are no longer saved by steep slopes
+
+Stopped switching to a weapon when you already have one in inventory
+
+Stopped switching to super shotgun or bfg10k when you don't have enough ammo
