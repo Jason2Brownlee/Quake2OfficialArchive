@@ -6,3 +6,6 @@
 # bluesnews only?!
 q2_312a.exe
 
+# ctf
+q2ctfss.zip
+

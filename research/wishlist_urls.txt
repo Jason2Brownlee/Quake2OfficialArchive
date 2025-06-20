@@ -1,4 +1,13 @@
 # Known historical locations of wishlist files
 
+# q2_312a.exe
 http://bluesnews.com/files/idstuff/quake2/q2_312a.exe
+
+# q2ctfss.zip
+ftp://ftp.cdrom.com/pub/idgames2/quake2/official/ctf/q2ctfss.zip
+ftp://ftp.idsoftware.com/idstuff/quake2/ctf/q2ctfss.zip
+ftp://ftp.telefragged.com/pub/quake2/q2ctfss.zip
+http://doomgate.cs.buffalo.edu/pub/games/idgames/idstuff/quake2/ctf/q2ctfss.zip
+http://ftp.digex.net/pub/idsoftware/quake2/ctf/q2ctfss.zip
+http://quake.burningchrome.com/files/q2ctfss.zip
 

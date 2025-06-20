@@ -10,7 +10,7 @@ Chronological list of Quake II official releases in [bin/](bin/) including date,
 
 Release Date | File | Description
 --- | --- | ---
-19971019 | [q2_test.exe](bin/q2_test.exe) | Quake2 Test (Win32)
+19971019 | [q2_test.exe](bin/q2_test.exe)<br>[q2test.zip](bin/q2test.zip) | Quake2 Test (Win32)
 19971020 | [q2_test_axp.zip](bin/q2_test_axp.zip) | Quake2 Test (DEC Alpha)
 19971118 | [q2test-i386-unknown-linux2.0.tar.gz](bin/q2test-i386-unknown-linux2.0.tar.gz) | Quake2 Test (Linux)
 19971209 | [q2_306.zip](bin/q2_306.zip) | Point Release v3.06 (Win32)
