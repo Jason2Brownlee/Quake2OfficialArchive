@@ -1,3 +1,5 @@
+![Quake II Official Archive](research/QuakeIIArchive.png)
+
 # Quake II Official Archive
 
 The goal of this project is to archive **all versions** of **all official Quake 2 releases**.
