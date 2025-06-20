@@ -15,6 +15,7 @@ Release Date | File | Description
 19971209 | n/a | Quake2 Retail Release v3.05
 19971211 | [q2source_12_11.zip](bin/q2source_12_11.zip) | Quake2 Game Source (v?)
 19971216 | [pmodels_12_12.zip](bin/pmodels_12_12.zip) | TexPaint and Playermodels
+19971218 | [q2miniinst.exe](bin/q2miniinst.exe) | 3Dfx OpenGL Minidriver
 19971227 | [patch_07.zip](bin/patch_07.zip) | Point Release v3.07 (Win32)
 19971228 | [patch_08.zip](bin/patch_08.zip) | Point Release v3.08 (Win32)
 19971229 | [q2-309.exe](bin/q2-309.exe)<br>[q2-309-2.exe](bin/q2-309-2.exe) | Point Release v3.09 (Win32)
