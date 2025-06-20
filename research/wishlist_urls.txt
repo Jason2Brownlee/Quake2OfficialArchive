@@ -1,8 +1,5 @@
 # Known historical locations of wishlist files
 
-# q2_312a.exe
-http://bluesnews.com/files/idstuff/quake2/q2_312a.exe
-
 # q2ctfss.zip
 ftp://ftp.cdrom.com/pub/idgames2/quake2/official/ctf/q2ctfss.zip
 ftp://ftp.idsoftware.com/idstuff/quake2/ctf/q2ctfss.zip
@@ -32,4 +29,3 @@ ftp://ftp.webcom.it/mirrors/idgames/idstuff/quake2/unix/q2ded-3.20-sparc-sun-sol
 ftp://mirror.aarnet.edu.au/pub/idgames/idstuff/quake2/unix/q2ded-3.20-sparc-sun-solaris2.0.tar.Z
 ftp://mirrors.aol.com/pub/pc_games/doom/idstuff/quake2/unix/q2ded-3.20-sparc-sun-solaris2.0.tar.Z
 ftp://sunsite.doc.ic.ac.uk/packages/idgames/idstuff/quake2/unix/q2ded-3.20-sparc-sun-solaris2.0.tar.Z
-

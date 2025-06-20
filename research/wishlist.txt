@@ -1,12 +1,7 @@
 # File Wishlist
 # ---------------------------
 
-# patches
-
-# bluesnews only?!
-q2_312a.exe
-
-# ctf
+# ctf screenshots
 q2ctfss.zip
 
 # dedicated servers
