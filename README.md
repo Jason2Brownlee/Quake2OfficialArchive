@@ -29,7 +29,7 @@ Release Date | File | Description
 19980219 | [q2_312.exe](bin/q2_312.exe) | Point Release v3.12
 19980219 | [q2ctf10.exe](bin/q2ctf10.exe) | Q2CTF v1.0
 19980223 | [dm_64.exe](bin/dm_64.exe)<br>[dm_64.tar.gz](bin/dm_64.tar.gz)<br>[readme-dm64.txt](bin/readme-dm64.txt) | 64 Player Deathmatch Pack
-19980225 | [q2_313.exe](bin/q2_313.exe)<br>[q2_312to313.exe](bin/q2_312to313.exe)<br>[q2_312to313.txt](bin/q2_312to313.txt)<br>[quake2-3.13-i386-unknown-linux2.0.tar.gz](bin/quake2-3.13-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.13-full-i386-unknown-linux2.0.tar.gz](bin/quake2-3.13-full-i386-unknown-linux2.0.tar.gz) | Point Release v3.13
+19980225 | [q2_313.exe](bin/q2_313.exe)<br>[q2_313.txt](bin/q2_313.txt)<br>[q2_312to313.exe](bin/q2_312to313.exe)<br>[q2_312to313.txt](bin/q2_312to313.txt)<br>[quake2-3.13-i386-unknown-linux2.0.tar.gz](bin/quake2-3.13-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.13-full-i386-unknown-linux2.0.tar.gz](bin/quake2-3.13-full-i386-unknown-linux2.0.tar.gz) | Point Release v3.13
 19980225 | [q2ctf101.zip](bin/q2ctf101.zip) | Q2CTF v1.01
 19980302 | [q2-314-x86.exe](bin/q2-314-x86.exe)<br>[q2-314-x86-full.exe](bin/q2-314-x86-full.exe)<br>[q2-314-x86-full-ctf.exe](bin/q2-314-x86-full-ctf.exe)<br>[q2-314-axp.zip](bin/q2-314-axp.zip)<br>[quake2-3.14-i386-unknown-linux2.0.tar.gz](bin/quake2-3.14-i386-unknown-linux2.0.tar.gz)<br>[q2ctf102.zip](bin/q2ctf102.zip)<br>[q2ctf102.exe](bin/q2ctf102.exe)<br>[q2ctf102upgrade.zip](bin/q2ctf102upgrade.zip) | Point Release v3.14 Q2CTF 1.02
 19980302 | [q2plug.zip](bin/q2plug.zip) | Q2Plug Browser Plug-in
