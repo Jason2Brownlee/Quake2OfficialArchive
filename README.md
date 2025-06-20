@@ -18,8 +18,7 @@ Release Date | File | Description
 19971228 | [patch_08.zip](bin/patch_08.zip) | Point Release v3.08 (Win32)
 19971229 | [q2-309.exe](bin/q2-309.exe)<br>[q2-309-2.exe](bin/q2-309-2.exe) | Point Release v3.09 (Win32)
 19980104 | [q2-310.exe](bin/q2-310.exe) | Point Release v3.10 (Win32)
-19980105| [q2-310-axp.zip](bin/q2-310-axp.zip) | Point Release v3.10 (DEC Alpha)
-19980105| [q2-311-axp.zip](bin/q2-311-axp.zip) | Point Release v3.11 (DEC Alpha)
+19980105| [q2-310-axp.zip](bin/q2-310-axp.zip)<br>[q2-311-axp.zip](bin/q2-311-axp.zip) | Point Release v3.10 and v3.11 (DEC Alpha)
 19980106 | [quake2-3.10-i386-unknown-linux2.0.tar.gz](bin/quake2-3.10-i386-unknown-linux2.0.tar.gz) | Point Release v3.10 (Linux)
 19980219 | [q2_312.exe](bin/q2_312.exe)<br>q2_312a.exe | Point Release v3.12
 19980219 | [q2ctf10.exe](bin/q2ctf10.exe) | Q2CTF v1.0
@@ -31,7 +30,7 @@ Release Date | File | Description
 19980309 | [q2ded-3.14-sparc-sun-solaris2.5.tar.Z](bin/q2ded-3.14-sparc-sun-solaris2.5.tar.Z) | Dedicated Server v3.14 (Sparc)
 19980314 | [q2-314-demo-x86.exe](bin/q2-314-demo-x86.exe) | Quake2 Demo v3.14
 19980528 | [q2-315-x86.exe](bin/q2-315-x86.exe)<br>[q2-315-x86-full.exe](bin/q2-315-x86-full.exe)<br>[q2-315-x86-full-ctf.exe](bin/q2-315-x86-full-ctf.exe)<br>[quake2-3.15-i386-unknown-linux2.0.tar.gz](bin/quake2-3.15-i386-unknown-linux2.0.tar.gz) | Point Release v3.15
-19980702| [q2-317-axp.zip](bin/q2-317-axp.zip)<br>[q2-317-axp-full.zip](bin/q2-317-axp-full.zip) | Point Release v3.17 (DEC Alpha)
+19980702 | [q2-317-x86.exe](bin/q2-317-x86.exe)<br>[q2-317-x86-full.exe](bin/q2-317-x86-full.exe)<br>[q2-317-x86-full-ctf.exe](bin/q2-317-x86-full-ctf.exe)<br>[q2-317-axp.zip](bin/q2-317-axp.zip)<br>[q2-317-axp-full.zip](bin/q2-317-axp-full.zip)<br>[quake2-317-i386-unknown-linux2.0.tar.gz](bin/quake2-317-i386-unknown-linux2.0.tar.gz)<br>[q2ded-317-sparc-sun-solaris2.0.tar.gz](bin/q2ded-317-sparc-sun-solaris2.0.tar.gz)<br>[q2ded-317-i386-sun-solaris2.5.1.tar.gz](bin/q2ded-317-i386-sun-solaris2.5.1.tar.gz)<br>[q2ded-317-axp-unknown-linux2.0.tar.gz](bin/q2ded-317-axp-unknown-linux2.0.tar.gz) | Point Release v3.17
 19980801 | [q2ctf109beta.zip](bin/q2ctf109beta.zip) | Q2CTF v1.09 Beta
 19980909 | [q2-319-axp-beta.zip](bin/q2-319-axp-beta.zip) | Point Release v3.19 Alpha
 19980910 | [q2-319-x86.exe](bin/q2-319-x86.exe)<br>[q2-319-x86-full.exe](bin/q2-319-x86-full.exe)<br>[q2-319-x86-full-ctf.exe](bin/q2-319-x86-full-ctf.exe)<br>[q2-319-vwep.exe](bin/q2-319-vwep.exe)<br>[quake2-3.19-i386-unknown-linux2.0.tar.gz](bin/quake2-3.19-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.19-glibc-i386-unknown-linux2.0.tar.gz](bin/quake2-3.19-glibc-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.19-glibc-1.i386.rpm](bin/quake2-3.19-glibc-1.i386.rpm)<br>[quake2-3.19-1.i386.rpm](bin/quake2-3.19-1.i386.rpm)<br>[q2ded-3.19-sparc-sun-solaris2.5.1.tar.Z](bin/q2ded-3.19-sparc-sun-solaris2.5.1.tar.Z)<br>[q2ded-3.19-i386-sun-solaris2.5.1.tar.Z](bin/q2ded-3.19-i386-sun-solaris2.5.1.tar.Z)<br>[q2ded-3.19-glibc-alpha-unknown-linux2.0.tar.gz](bin/q2ded-3.19-glibc-alpha-unknown-linux2.0.tar.gz)<br>[q2ded-3.19-glibc-1.alpha.rpm](bin/q2ded-3.19-glibc-1.alpha.rpm) | Point Release v3.19
