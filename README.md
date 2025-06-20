@@ -22,7 +22,7 @@ Release Date | File | Description
 19980104 | [q2-310.exe](bin/q2-310.exe) | Point Release v3.10 (Win32)
 19980105| [q2-310-axp.zip](bin/q2-310-axp.zip)<br>[q2-311-axp.zip](bin/q2-311-axp.zip) | Point Release v3.10 (DEC Alpha)<br>Point Release v3.11 (DEC Alpha)
 19980106 | [quake2-3.10-i386-unknown-linux2.0.tar.gz](bin/quake2-3.10-i386-unknown-linux2.0.tar.gz) | Point Release v3.10 (Linux)
-19980219 | [q2_312.exe](bin/q2_312.exe)<br>q2_312a.exe | Point Release v3.12
+19980219 | [q2_312.exe](bin/q2_312.exe) | Point Release v3.12
 19980219 | [q2ctf10.exe](bin/q2ctf10.exe) | Q2CTF v1.0
 19980223 | [dm_64.exe](bin/dm_64.exe)<br>[dm_64.tar.gz](bin/dm_64.tar.gz)<br>[readme-dm64.txt](bin/readme-dm64.txt) | 64 Player Deathmatch Pack
 19980225 | [q2_313.exe](bin/q2_313.exe)<br>[q2_312to313.exe](bin/q2_312to313.exe)<br>[quake2-3.13-i386-unknown-linux2.0.tar.gz](bin/quake2-3.13-i386-unknown-linux2.0.tar.gz)<br>[quake2-3.13-full-i386-unknown-linux2.0.tar.gz](bin/quake2-3.13-full-i386-unknown-linux2.0.tar.gz) | Point Release v3.13

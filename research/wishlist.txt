@@ -2,5 +2,7 @@
 # ---------------------------
 
 # patches
+
+# bluesnews only?!
 q2_312a.exe
 
