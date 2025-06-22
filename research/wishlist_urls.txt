@@ -49,3 +49,24 @@ ftp://sunsite.doc.ic.ac.uk/packages/idgames/idstuff/quake2/unix/ftp.webcom.it/mi
 ftp://sunsite.doc.ic.ac.uk/packages/idgames/idstuff/quake2/unix/q2ded-3.20-sparc-sun-solaris2.0.tar.Z
 http://www.linuxquake.com/cgi-bin/getmirrors/ftp.webcom.it/mirrors/idgames/idstuff/quake2/unix/ftp.webcom.it/mirrors/idgames/idstuff/quake2/unix/q2ded-3.20-sparc-sun-solaris2.0.tar.Z
 http://www.linuxquake.com/cgi-bin/getmirrors/ftp.webcom.it/mirrors/idgames/idstuff/quake2/unix/q2ded-3.20-sparc-sun-solaris2.0.tar.Z
+
+# q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://ftp.ais.net/pub/idgames/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://ftp.cdrom.com/pub/idgames/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://ftp.epix.net/pub/idgames/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://ftp.fu-berlin.de/pc/msdos/games/doom/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://ftp.gamers.org/pub/games/idgames/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://ftp.is.co.za/games/id/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://ftp.jussieu.fr/pub/idgames/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://ftp.linuxquake.com/pub/idgames/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://ftp.livewire.com.au/pub/idgames1/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://ftp.ntua.gr/pub/vendors/idgames/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://ftp.powerup.com.au/pub/idgames/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://ftp.sci.fi/pub/idgames/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://ftp.sunet.se/pub/pc/games/idgames/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://ftp.task.gda.pl/pub/games/idgames/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://ftp.telepac.pt/pub/idgames/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://mirror.aarnet.edu.au/pub/idgames/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://mirrors.aol.com/pub/pc_games/doom/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+ftp://sunsite.doc.ic.ac.uk/packages/idgames/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
+http://www.linuxquake.com/cgi-bin/getmirrors/ftp.webcom.it/mirrors/idgames/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz

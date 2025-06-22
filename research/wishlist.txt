@@ -6,3 +6,6 @@ q2ctfss.zip
 
 # dedicated servers
 q2ded-3.20-sparc-sun-solaris2.0.tar.Z
+q2ded-320-sparc-sun-solaris2.0.tar.Z
+q2ded-320-sparc-sun-solaris2.0.tar.gz
+q2ded-3.20-sparc-sun-solaris2.0.tar.gz
