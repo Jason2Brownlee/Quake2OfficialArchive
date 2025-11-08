@@ -57,6 +57,7 @@ ftp://sunsite.doc.ic.ac.uk/packages/idgames/idstuff/quake2/unix/ftp.webcom.it/mi
 ftp://sunsite.doc.ic.ac.uk/packages/idgames/idstuff/quake2/unix/q2ded-3.20-sparc-sun-solaris2.0.tar.Z
 http://www.linuxquake.com/cgi-bin/getmirrors/ftp.webcom.it/mirrors/idgames/idstuff/quake2/unix/ftp.webcom.it/mirrors/idgames/idstuff/quake2/unix/q2ded-3.20-sparc-sun-solaris2.0.tar.Z
 http://www.linuxquake.com/cgi-bin/getmirrors/ftp.webcom.it/mirrors/idgames/idstuff/quake2/unix/q2ded-3.20-sparc-sun-solaris2.0.tar.Z
+http://www.linuxquake.com/cgi-bin/getmirrors/getmirrors?network=idgames&file=idstuff/quake2/unix/q2ded-3.20-sparc-sun-solaris2.0.tar.Z
 
 # q2ded-3.20-sparc-sun-solaris2.0.tar.gz
 ftp://ftp.ais.net/pub/idgames/idstuff/quake2/unix/q2ded-320-sparc-sun-solaris2.0.tar.gz
